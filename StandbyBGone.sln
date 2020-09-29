@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandbyBGone", "StandbyBGone\StandbyBGone.csproj", "{3E0AB8D0-A4B1-4D1F-A061-94F3E3F5CE05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0AB8D0-A4B1-4D1F-A061-94F3E3F5CE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0AB8D0-A4B1-4D1F-A061-94F3E3F5CE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0AB8D0-A4B1-4D1F-A061-94F3E3F5CE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0AB8D0-A4B1-4D1F-A061-94F3E3F5CE05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8EC368E-159D-451C-88B8-2B98030BBC8B}
+	EndGlobalSection
+EndGlobal
